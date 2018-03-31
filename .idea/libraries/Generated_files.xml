@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/lbrysync.js" />
+        <item url="file://$PROJECT_DIR$/logger.js" />
+        <item url="file://$PROJECT_DIR$/syncer.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lbrysync.js" />
+      <root url="file://$PROJECT_DIR$/lib/logger.js" />
+      <root url="file://$PROJECT_DIR$/lib/syncer.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
