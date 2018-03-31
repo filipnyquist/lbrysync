@@ -3,8 +3,8 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/lbrysync.js" />
-        <item url="file://$PROJECT_DIR$/logger.js" />
-        <item url="file://$PROJECT_DIR$/syncer.js" />
+        <item url="file://$PROJECT_DIR$/lib/logger.js" />
+        <item url="file://$PROJECT_DIR$/lib/syncer.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>

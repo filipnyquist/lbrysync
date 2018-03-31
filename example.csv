@@ -1,0 +1,7 @@
+name,bid,file_path,title,description,author,language,license,license_url,thumbnail,nsfw,channel_name
+fill-testsync-1,0.1,C:\testitems\pic1.png,fillerino testsync 1,The first testsync!,Fillerino synctool v0.0.1,en,The MIT License,https://opensource.org/licenses/MIT,https://i.imgur.com/aVRj0fh.png,FALSE,@fillerinodev
+fill-testsync-2,0.1,C:\testitems\pic2.png,fillerino testsync 2,The second testsync!,Fillerino synctool v0.0.1,en,The MIT License,https://opensource.org/licenses/MIT,https://i.imgur.com/aVRj0fh.png,FALSE,@fillerinodev
+fill-testsync-3,0.1,C:\testitems\pic3.png,fillerino testsync 3,The third testsync!,Fillerino synctool v0.0.1,en,The MIT License,https://opensource.org/licenses/MIT,https://i.imgur.com/aVRj0fh.png,FALSE,@fillerinodev
+fill-testsync-4,0.1,C:\testitems\pic4.png,fillerino testsync 4,The forth testsync!,Fillerino synctool v0.0.1,en,The MIT License,https://opensource.org/licenses/MIT,https://i.imgur.com/aVRj0fh.png,FALSE,@fillerinodev
+fill-testsync-5,0.1,C:\testitems\pic5.png,fillerino testsync 5,The fifth testsync!,Fillerino synctool v0.0.1,en,The MIT License,https://opensource.org/licenses/MIT,https://i.imgur.com/aVRj0fh.png,FALSE,@fillerinodev
+fill-testsync-6,0.1,C:\testitems\pic6.png,fillerino testsync 6,The sixth testsync!,Fillerino synctool v0.0.1,en,The MIT License,https://opensource.org/licenses/MIT,https://i.imgur.com/aVRj0fh.png,FALSE,@fillerinodev

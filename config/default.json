@@ -1,0 +1,14 @@
+{
+  // Sync settings
+    "defaultSettings": {
+      "standardBid": 0.1,
+      "standardAuthor": "LBRY Synctool",
+      "standardLang": "en",
+      "standardLicense": "MIT",
+      "standardLicenseUrl": "https://opensource.org/licenses/MIT",
+      "standardThumbnail": null,
+      "standardNSFW": false,
+      "standardChannelName": null, // Channels should be in @channel format.
+      "standardClaimAddress": null // Let LBRY handle our addresses setup
+    }
+}

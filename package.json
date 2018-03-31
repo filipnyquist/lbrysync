@@ -9,6 +9,7 @@
   "dependencies": {
     "better-queue": "^3.8.6",
     "commander": "^2.15.1",
+    "config": "^1.30.0",
     "lbry-nodejs": "^1.0.6",
     "lowdb": "^1.0.0",
     "neat-csv": "^2.1.0",
