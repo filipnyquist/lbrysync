@@ -21,7 +21,7 @@ Now when all dependencies are installed, and we can go over to the layout of our
 
 **The only ones required are file_path, bid and name.** All of the other fields that are not in the csv file will use the standard config that is set in the configuration file under the folder config. **NOTE: You should only set claim_address if you know what you are doing. If you are a normal user LBRY will automatically generate an address.**
 
-### Example of how a csv file could be structured:
+### Example of how a csv file could be structured ([FIND THE FILE HERE, MUSTE USE COMMA SEPARATORS](https://raw.githubusercontent.com/filipnyquist/lbrysync/master/example.csv)):
 
 **name**|**bid**|**file\_path**|**title**|**description**|**author**|**language**|**license**|**license\_url**|**thumbnail**|**nsfw**|**channel\_name**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
