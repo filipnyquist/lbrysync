@@ -1,7 +1,7 @@
 
 # LBRYsync
 
-So you want to sync some stuff to the LBRY? Great, feel free to use my synctool!
+So you want to sync some stuff to LBRY? Great, this is the perfect tool!
 
 ## Prerequisites
 
