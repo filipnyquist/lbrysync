@@ -15,9 +15,10 @@ Run the command `npm install` in the lbrysync folder.
 
 ## How do I run this magic software?
 Now when all dependencies are installed, and we can go over to the layout of our CSV file which will contain information about the content.
-All possible fields available in the CSV file are:
-title | description | author | language | license | license_url | thumbnail | nsfw | thumbnail | channel_name | claim_address
------------- | ------------- | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------
+
+**name**|**bid**|**file\_path**|**title**|**description**|**author**|**language**|**license**|**license\_url**|**thumbnail**|**nsfw**|**thumbnail**|**channel\_name**|**claim\_address**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+
 **The only ones required are file_path, bid and name.** All of the other fields that are not in the csv file will use the standard config that is set in the configuration file under the folder config. **NOTE: You should only set claim_address if you know what you are doing. If you are a normal user LBRY will automatically generate an address.**
 
 ### Example of how a csv file could be structured:
